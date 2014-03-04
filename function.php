@@ -1,0 +1,5 @@
+<?
+  function prueba(){
+   echo 'prueba';
+  }
+?>
