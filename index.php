@@ -1,1 +1,5 @@
-<?php echo Prueba; ?>
+<?php 
+
+function prueba();
+
+?>
